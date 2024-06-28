@@ -1,2 +1,3 @@
 - [ ] [Web perf guide](https://www.speedcurve.com/web-performance-guide/)
-- [ ] [Optimiser les longues tâches  |  Articles  |  web.dev](https://web.dev/articles/optimize-long-tasks?hl=fr)
+- [ ] [Optimiser les longues tÃ¢ches Â |Â  Articles Â |Â  web.dev](https://web.dev/articles/optimize-long-tasks?hl=fr)
+- [ ] [WebMD - Better information. Better health.](https://www.webmd.com/)
